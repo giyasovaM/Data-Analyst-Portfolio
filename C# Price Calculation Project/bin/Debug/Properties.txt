@@ -1,0 +1,8 @@
+Date: 03/14/2021
+Property Price: $34,430.00
+State Sales Tax: $2,065.80
+State Sales Tax: $2,065.80
+County Sales Tax: $0.00
+Commission: $1,721.50
+Total Price: $38,217.30
+
